@@ -80,6 +80,7 @@ public class CityList {
   
     public void clear() {
         //Do Nothing
+        cities = new ArrayList<>();
     }
 
 }
